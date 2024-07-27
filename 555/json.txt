@@ -1,0 +1,4 @@
+jjgkkfk
+print(ffff)
+class Dog(self):
+__init__
